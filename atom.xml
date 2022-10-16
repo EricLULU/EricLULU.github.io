@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Eric</title>
   
-  
+  <subtitle>壹家大数据</subtitle>
   <link href="https://ericlulu.github.io/atom.xml" rel="self"/>
   
   <link href="https://ericlulu.github.io/"/>
